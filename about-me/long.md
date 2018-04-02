@@ -1,4 +1,4 @@
-- Books (About the Author), Amazon, RoadToReact
+- Books (About the Author), Amazon, RoadToReact, Facebook Page
 
 Robin Wieruch is a german software and web engineer who is dedicated to learn and teach programming in JavaScript. After graduating from university with a masters degree in computer science, he hasn't stopped learning every day on his own. His experiences from the startup world, where he used JavaScript excessively during his professional time and spare time, gave him the opportunity to teach others about these topics.
 
